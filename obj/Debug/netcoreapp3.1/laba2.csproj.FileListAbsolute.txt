@@ -1,0 +1,13 @@
+D:\1study\ООП\laba2\bin\Debug\netcoreapp3.1\laba2.exe
+D:\1study\ООП\laba2\bin\Debug\netcoreapp3.1\laba2.deps.json
+D:\1study\ООП\laba2\bin\Debug\netcoreapp3.1\laba2.runtimeconfig.json
+D:\1study\ООП\laba2\bin\Debug\netcoreapp3.1\laba2.runtimeconfig.dev.json
+D:\1study\ООП\laba2\bin\Debug\netcoreapp3.1\laba2.dll
+D:\1study\ООП\laba2\bin\Debug\netcoreapp3.1\laba2.pdb
+D:\1study\ООП\laba2\obj\Debug\netcoreapp3.1\laba2.csprojAssemblyReference.cache
+D:\1study\ООП\laba2\obj\Debug\netcoreapp3.1\laba2.AssemblyInfoInputs.cache
+D:\1study\ООП\laba2\obj\Debug\netcoreapp3.1\laba2.AssemblyInfo.cs
+D:\1study\ООП\laba2\obj\Debug\netcoreapp3.1\laba2.csproj.CoreCompileInputs.cache
+D:\1study\ООП\laba2\obj\Debug\netcoreapp3.1\laba2.dll
+D:\1study\ООП\laba2\obj\Debug\netcoreapp3.1\laba2.pdb
+D:\1study\ООП\laba2\obj\Debug\netcoreapp3.1\laba2.genruntimeconfig.cache
